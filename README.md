@@ -7,3 +7,4 @@ This is a simple readme file
 Just something going on
 
 Change 1
+Change 2
